@@ -157,4 +157,18 @@ An algorithm is a procedure used for solving a problem or performing a computati
 - Longest Palindromic Substring: Finds the longest substring which is a palindrome.
 - Two Pointers Method: Utilizes two pointers to solve problems efficiently in linear time.
 - Sliding Window Technique: Maintains a window of elements in an array or string to solve problems with linear time complexity.
-  
+
+
+**9. Mathematical Algorithms**
+
+- Euclidean Algorithm for GCD: Computes the greatest common divisor.
+- Sieve of Eratosthenes: Finds all primes up to a specific integer.
+- Fast Fourier Transform(FFM): Computes the Discrete Fourier Transform.
+- Exponentiation by Squaring: Efficiently computes large powers of a number.
+
+
+**10. Miscellanous Algorithms**
+
+- Union-Find Algorithm: Data structure to manage disjoint sets.
+- Reservoir Sampling: Randomly selects k items from a list.
+- FIsher-Yates Shuffle: Randomly shuffles a list.
