@@ -75,5 +75,19 @@ An algorithm is a procedure used for solving a problem or performing a computati
 
 **10. Miscellaneous Algorithms**
   - Union-Find Algorithm
-  - Resevoir Sampling
+  - Reservoir Sampling
   - Fisher-Yates Shuffle
+
+## Detailed Breakdown of Categories and Algorithms
+
+**1. Sorting Algorithms**
+
+- Bubble Sort: Simple comparison-based sort.
+- Insertion Sort: Builds the sorted array one item at a time.
+- Selection Sort: Selects the smallest element from an unsorted list in each iteration.
+- Merge Sort: Divide and conquer algorithm that splits the list into halves.
+- Quick Sort: Divide and conquer algorithm that picks a pivot and paritions the array.
+- Heap Sort: Utilizes a binary heap data sructure.
+- Radix Sort: Non-comparative, integer sorting algorithm based on keys.
+
+ 
