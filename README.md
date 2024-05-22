@@ -60,11 +60,14 @@ An algorithm is a procedure used for solving a problem or performing a computati
   - Knight's Tour
 
 **8. String Algorithms**
+
   - Knuth-Morris-Pratt(KMP) Algorithm
   - Rabin-Karp Algorithm
   - Boyer-Moore Algorithm
   - Longest Common Subsequence(LCS)
   - Longest Palindromic Substring
+  - Two Pointers Method
+  - Sliding Window Technique
 
 **9. Mathematical Algorithms**
 
@@ -137,9 +140,21 @@ An algorithm is a procedure used for solving a problem or performing a computati
 - Stressen's Matrix Multiplication: Efficiently multiplies two matrices.
 
 
-**Backtracking Algorithms**
+**7. Backtracking Algorithms**
 
 - N-Queens Problem: Places N queens on an NxN chessboard.
 - Sudoku Solver: Solves Sudoku puzzles.
 - Hamiltonian Cycle: Finds a Hamiltonian cycle in a graph.
 - Knight's Tour: Moves a knight on a chessboard to visit every square once.
+
+
+**8. String Algorithms**
+
+- Knuth-Morris-Pratt(KMP) Algorithm: Searches for a substring in a text.
+- Rabin-Karp Algorithm: Uses hashing to find a substring.
+- Boyer-Moore Algorithm: Efficient substring search algorithm.
+- Longest Common Subsequence (LCS): Finds the longest subsequence common to two strings (also listed under dynamic programming).
+- Longest Palindromic Substring: Finds the longest substring which is a palindrome.
+- Two Pointers Method: Utilizes two pointers to solve problems efficiently in linear time.
+- Sliding Window Technique: Maintains a window of elements in an array or string to solve problems with linear time complexity.
+  
