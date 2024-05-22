@@ -109,3 +109,18 @@ An algorithm is a procedure used for solving a problem or performing a computati
 - A* Algorithm: Pathfinding algorithm with heuristics.
 - Topological Sorting: Linear ordering of vertices in a directed acyclic graph.
 
+
+**4. Dynamic Programming Algorithms**
+
+- Fibonacci Sequence: Calculates Fibonacci numbers efficiently.
+- Longest Common Sequence(LCS): FInd the longest subsequence common to two sequences.
+- 0/1 Knapsack Problem: Optimization problem involving a knapsack and items with weights and values.
+- Coin Change Problem: Find the minimum number of coins to make a certain amount. 
+- Matrix Chain Multiplication: Optimizes the order of matrix multiplications.
+- Longest Increasing Subsequence: Find the longest increasing subsequence in an array.
+- Edit Distance: Measures the similarity between two strings.
+
+
+**5. Greedy Algorithms**
+
+- Huffman Coding: Compression algorithm for lossless data compression.
