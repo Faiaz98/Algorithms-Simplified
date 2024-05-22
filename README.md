@@ -124,3 +124,19 @@ An algorithm is a procedure used for solving a problem or performing a computati
 **5. Greedy Algorithms**
 
 - Huffman Coding: Compression algorithm for lossless data compression.
+- Activity Selection: Selects the maximum number of activites that don't overlap.
+- Fractional Knapsack Problem: Allow dividing items for maximum value.
+- Prim's Algorithm: For minimum spanning tree (also listed under graph algorithms).
+- Kruskal's Algorithm: For minimum spanning tree (also listed under graph algorithms).
+
+**6. Divind and Conquer Algorithms**
+
+- Merge Sort: Divides the list into halves and merges them (also listed under sorting).
+- Quick Sort: Uses pivot to divide the array (also listed under sorting).
+- Binary Search: Divides the list into halves to find an item(also listed under searching).
+- Stressen's Matrix Multiplication: Efficiently multiplies two matrices.
+
+
+**Backtracking Algorithms**
+
+- N
