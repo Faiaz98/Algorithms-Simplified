@@ -91,3 +91,21 @@ An algorithm is a procedure used for solving a problem or performing a computati
 - Radix Sort: Non-comparative, integer sorting algorithm based on keys.
 
  
+**2. Searching Algorithms**
+
+- Linear Search: Sequentially checks each element.
+- Binary Search: Divides the sorted list to find an item.
+- Depth-First Search(DFS): Explores as far as possible along each branch.
+- Breadth-First Serch(BFS): Explores all neighbors at the present depth level.
+
+
+**3. Graph Algorithms**
+
+- Dijkstra's Algorithm: Finds the shortest path in weighted graphs.
+- Bellman-Ford Algortihm: Handles graphs with negative weights.
+- Floyd-Warshall Algorithm: Computes shortest paths between all pairs of nodes.
+- Kruskal's Algorithm: Finds a minimum spanning tree using edges.
+- Prim's Algorithm: Finds a minimum spanning tree using vertices.
+- A* Algorithm: Pathfinding algorithm with heuristics.
+- Topological Sorting: Linear ordering of vertices in a directed acyclic graph.
+
