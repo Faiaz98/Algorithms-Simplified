@@ -139,4 +139,7 @@ An algorithm is a procedure used for solving a problem or performing a computati
 
 **Backtracking Algorithms**
 
-- N
+- N-Queens Problem: Places N queens on an NxN chessboard.
+- Sudoku Solver: Solves Sudoku puzzles.
+- Hamiltonian Cycle: Finds a Hamiltonian cycle in a graph.
+- Knight's Tour: Moves a knight on a chessboard to visit every square once.
